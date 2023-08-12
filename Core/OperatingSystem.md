@@ -442,7 +442,7 @@ also known as a command interpreter, is that part of the operating system that r
 
    **i. PC On**
 
-   **ii. CPU initializes itself and looks for a firmware program (BIOS) stored in BIOS Chip**
+   **ii. CPU initializes itself and looks for a firmware program BIOS(Basic Input Output System) stored in BIOS Chip**
    - The BIOS chip is a ROM chip found on the motherboard that allows access and setup of the computer system at the most basic level.
    - In modern PCs, the CPU loads UEFI (Unified Extensible Firmware Interface).
 
